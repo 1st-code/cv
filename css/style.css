@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(250, 250, 250);
+}
+
+img.profile {
+    height: 240px;
+    border-radius: 35px
+}
