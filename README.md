@@ -16,7 +16,7 @@
       <tr>
         <td>
           <img src="images/pic.jpg" alt="Oisin Rood photo" class="profile" /><br>
-          <p><a href="contact.html">Contact</a></p>
+          <p><a href="#">Contact</a></p>
           <p><a href="https://www.twitter.com/oisinrood" target="_blank">twitter.com/oisinrood</a></p>
         </td>
         <td>
