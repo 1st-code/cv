@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-  <title>Oisin's Site</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/style.css" rel="stylesheet">
@@ -47,7 +46,7 @@
           JavaScript
         </td>
         <td>
-          ⭐
+          ⭐⭐
         </td>
       </tr>
     </tr>
@@ -111,7 +110,7 @@
             <strong>Possible solution:</strong>
             <br><br>
             <li>The primary market are PC users, rather than force them to use a clunky console-style controller:-<br>
-              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p>
+              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p></li>
 
               <p>Most laptops have a webcam. Most users in the target demographic have a smartphone.</p>
               <p>A small curved mirror with a plastic clip to attach to the front of the webcam that will reflect the keyboard and mouse onto the camera's sensor, otherwise a stand to place a smartphone so the device camera can be used while also doubling as a standard device stand.</p>
