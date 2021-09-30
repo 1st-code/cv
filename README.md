@@ -110,30 +110,34 @@
             <strong>Possible solution:</strong>
             <br><br>
             <li>The primary market are PC users, rather than force them to use a clunky console-style controller:-<br>
-              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p></li>
+              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p></li></ul>
 
-              <p>Most laptops have a webcam. Most users in the target demographic have a smartphone.</p>
-              <p>A small curved mirror with a plastic clip to attach to the front of the webcam that will reflect the keyboard and mouse onto the camera's sensor, otherwise a stand to place a smartphone so the device camera can be used while also doubling as a standard device stand.</p>
+		Most laptops have a webcam. Most users in the target demographic have a smartphone.
+		
+		A small curved mirror with a plastic clip to attach to the front of the webcam that will reflect the keyboard and mouse onto the camera's sensor, otherwise a stand to place a smartphone so the device camera can be used while also doubling as a standard device stand.
 
-              <p>A software program can crop areas of video stream around the keyboard and mouse and render as a semi-transparent and resizeable head-up display while the user wears the virtual reality headset.</p>
+		A software program can crop areas of video stream around the keyboard and mouse and render as a semi-transparent and resizeable head-up display while the user wears the virtual reality headset.
 
-              <p>The target demographic can now wear the headset in 3-D simulators and game environments while utilizing standard controls with minimal outside distraction.</p>
+		The target demographic can now wear the headset in 3-D simulators and game environments while utilizing standard controls with minimal outside distraction.
 
-              <li><p>Cost of production of plastic clip, mirror: < $2</p></li>
+		- Cost of production of plastic clip, mirror: < $2
               
-              <p>This would also allow game developers to create a DLC upgrade for their finished product.</p>
+		This would also allow game developers to create a DLC upgrade for their finished product.
 
-              <p>Create an ability to look around the neck of the player model when user moves their head. Useful in 3-D environments, flight simulators, first-person shooters.</p>
+		Create an ability to look around the neck of the player model when user moves their head. Useful in 3-D environments, flight simulators, first-person shooters.
 
-              <p>In the competitive world of online gaming, quality peripherals are charged at a premium.</p>
-              <p>Increasing the player's situational awareness with virtual reality technology while retaining the efficiency of keyboard-mouse controls.</p></li></li>
+		In the competitive world of online gaming, quality peripherals are charged at a premium.
+								  
+		Increasing the player's situational awareness with virtual reality technology while retaining the efficiency of keyboard-mouse controls.
 
-              <li><p>Business expands sales of their technology and profits</p></li>
-              <li><p>3rd-party developers renew sales of titles and profit</p></li>
-              <li><p>Product has utility for consumer.</p></li>
-              <li><p>Technology rollout momentum increases</p></li>
-              </li></li></ul>
-          </ul>
+		- Business expands sales of their technology and profits
+			
+		- 3rd-party developers renew sales of titles and profit
+
+		- Product has utility for consumer.
+
+		- Technology rollout momentum increases
+
         </td>
        </tr>
     </tbody>
@@ -142,5 +146,4 @@
   <hr>
 
 </body>
-
 </html>
