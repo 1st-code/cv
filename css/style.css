@@ -6,3 +6,8 @@ img.profile {
     height: 240px;
     border-radius: 35px
 }
+
+h1.name {
+	color: #555;
+	font-family: "Courier"
+}
