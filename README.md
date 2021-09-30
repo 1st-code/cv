@@ -110,7 +110,7 @@
             <strong>Possible solution:</strong>
             <br><br>
             <li>The primary market are PC users, rather than force them to use a clunky console-style controller:-<br>
-              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p></li></ul>
+            <li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p></li>
 
 		Most laptops have a webcam. Most users in the target demographic have a smartphone.
 		
@@ -137,13 +137,6 @@
 		- Product has utility for consumer.
 
 		- Technology rollout momentum increases
-
-        </td>
-       </tr>
-    </tbody>
-  </table>
-
-  <hr>
 
 </body>
 </html>
