@@ -1,1 +1,147 @@
-# cv
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Oisin's Site</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="images/pic.jpg" alt="Oisin Rood photo" class="profile" /><br>
+          <p><a href="contact.html">Contact</a></p>
+          <p><a href="https://www.twitter.com/oisinrood" target="_blank">twitter.com/oisinrood</a></p>
+        </td>
+        <td>
+          <h1 class="name">Oisin Rood</h1>
+		  <p><em>Python Developer</em></p>
+          <p><em>Currently brushing up on Web Dev (Full-stack), JavaScript, SQL, regex and more</em></p>
+		  <br><br><br><br><br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tbody>
+      <tr>
+        <td>
+          Web Development
+        </td>
+        <td>
+          ⭐⭐
+        </td>
+      </tr>
+      <tr>
+        <td>
+          JavaScript
+        </td>
+        <td>
+          ⭐
+        </td>
+      </tr>
+    </tr>
+    <tr>
+      <td>
+        Bootstrap
+      </td>
+      <td>
+        ⭐
+      </td>
+    </tr>
+      <tr>
+        <td>
+          Python
+        </td>
+        <td>
+          Certified Associate in Python Programming
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Adobe Photoshop
+        </td>
+        <td>
+          ⭐⭐⭐⭐
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Adobe Illustrator
+        </td>
+        <td>
+          ⭐⭐⭐
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+  
+  <table cellspacing="10">
+    <thead>
+      <tr>
+        <th align="left">
+          <h2>Example scenario #1</h2>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <p><h3>2010, a business has invested millions in creating an ecosystem for virtual reality technology marketed towards the consumer gaming market</h3></p>
+          <p><strong>Due to limits of technology, the product's adoption has slowed due to poor uptake, stemming from focusing on console-style gaming controllers and other factors.</strong></p><br>
+          <ul>
+            <strong>Possible problems:</strong>
+            <br><br>
+            <li>Motion detection</li>
+            <li>Controller</li>
+            <li>Multimedia</li>
+            <br><br>
+            <strong>Possible solution:</strong>
+            <br><br>
+            <li>The primary market are PC users, rather than force them to use a clunky console-style controller:-<br>
+              <ul><li><p><strong>Create a product that would facilitate a more streamlined control style</strong></p>
+
+              <p>Most laptops have a webcam. Most users in the target demographic have a smartphone.</p>
+              <p>A small curved mirror with a plastic clip to attach to the front of the webcam that will reflect the keyboard and mouse onto the camera's sensor, otherwise a stand to place a smartphone so the device camera can be used while also doubling as a standard device stand.</p>
+
+              <p>A software program can crop areas of video stream around the keyboard and mouse and render as a semi-transparent and resizeable head-up display while the user wears the virtual reality headset.</p>
+
+              <p>The target demographic can now wear the headset in 3-D simulators and game environments while utilizing standard controls with minimal outside distraction.</p>
+
+              <li><p>Cost of production of plastic clip, mirror: < $2</p></li>
+              
+              <p>This would also allow game developers to create a DLC upgrade for their finished product.</p>
+
+              <p>Create an ability to look around the neck of the player model when user moves their head. Useful in 3-D environments, flight simulators, first-person shooters.</p>
+
+              <p>In the competitive world of online gaming, quality peripherals are charged at a premium.</p>
+              <p>Increasing the player's situational awareness with virtual reality technology while retaining the efficiency of keyboard-mouse controls.</p></li></li>
+
+              <li><p>Business expands sales of their technology and profits</p></li>
+              <li><p>3rd-party developers renew sales of titles and profit</p></li>
+              <li><p>Product has utility for consumer.</p></li>
+              <li><p>Technology rollout momentum increases</p></li>
+              </li></li></ul>
+          </ul>
+        </td>
+       </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+</body>
+
+</html>
